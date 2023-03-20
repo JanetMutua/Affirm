@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirm</string>
+    <string name="affirmation1">Deep work = Dreamwork</string>
+    <string name="affirmation2">Unleash the potential within</string>
+    <string name="affirmation3">Without a struggle there can beno progress</string>
+    <string name="affirmation4">Create, unleash, become</string>
+    <string name="affirmation5">The beginning of a new era</string>
+    <string name="affirmation6">No pressure, no diamonds</string>
+    <string name="affirmation7">I am the hero of my own life</string>
+    <string name="affirmation8">Work smarter</string>
+    <string name="affirmation9">To whom much is given, much is expected </string>
+    <string name="affirmation10">Sustainable growth</string>
+</resources>
